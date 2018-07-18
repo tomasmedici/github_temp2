@@ -1,0 +1,5 @@
+import numpy as np
+
+m = 1 + 2
+
+print(m)
